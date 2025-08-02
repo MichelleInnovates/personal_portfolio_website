@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my skills in cybersecurity and
 
 ## 🌐 Live Demo
 
-🔗 [Visit Portfolio] https://personal-portfolio-website-nine-eta.vercel.app/
+🔗 https://personal-portfolio-website-nine-eta.vercel.app/
 
 ## ✨ Features
 
@@ -33,7 +33,7 @@ portfolio_website_hackathon_1/
 ```
 ## 📸 Image Credits
 
-All visual assets in the gallery and other sections were sourced from my Pinterest account https://www.pinterest.com/mishakinyua/ and are used for my personal portfolio purposes only.
+All visual assets in the gallery and other sections were sourced from my Pinterest account https://www.pinterest.com/mishakinyua/ and are to be used for my personal portfolio purposes only.
 
 
 ## 🚀 Quick Start
@@ -44,9 +44,9 @@ All visual assets in the gallery and other sections were sourced from my Pintere
 
 ## 📞 Contact
 
-- **Email**: hello@michellekinyua.com
-- **GitHub**: [MichelleInnovates](https://github.com/MichelleInnovates)
+- **Email**: michellekinyua9@gmail.com
+- **GitHub**: https://github.com/MichelleInnovates)
 
 ---
 
-**Built with ❤️ using HTML & CSS**
+Built using HTML & CSS
