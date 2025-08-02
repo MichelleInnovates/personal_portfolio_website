@@ -1,5 +1,3 @@
-# personal_portfolio_website
-My personal portfolio website that showcases my skills, background, and achievements.
 # 💼 Michelle Kinyua – Portfolio
 
 A modern, responsive portfolio website showcasing my skills in cybersecurity and web development.
