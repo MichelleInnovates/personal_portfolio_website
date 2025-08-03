@@ -514,7 +514,7 @@ section {
     box-shadow: 0 15px 35px rgba(255, 107, 157, 0.4);
 }
 
-/* New Positioning for Status */
+/* Positioning for Status */
 .profile-status {
     display: inline-flex;
     align-items: center;
@@ -570,7 +570,7 @@ section {
 .about-content {
     display: flex;
     gap: 3rem;
-    align-items: stretch; /* make both columns equal height */
+    align-items: stretch; 
 }
 
 .profile-image-card,
